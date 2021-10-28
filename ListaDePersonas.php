@@ -1,38 +1,3 @@
-?php
-            $registros = array();
-
-            $registros[] = array("nombre" => "Javier",
-                "apellido" => "Gomez",
-                "email" => "jGomez@gmail.com",
-                "DNI" => "22.222.222"
-
-            ); 
-            $registros[] = array("nombre" => "Pablo",
-                "apellido" => "Torres",
-                "email" => "pTorres@gmail.com",
-                "DNI" => "33.333.333"
-
-            );  
-            $registros[] = array("nombre" => "Ana",
-                "apellido" => "Maria",
-                "email" => "aMaria@gmail.com",
-                "DNI" => "44.444.444"
-
-            );  
-            $registros[] = array("nombre" => "Juan",
-                "apellido" => "Perez",
-                "email" => "jPerez@gmail.com",
-                "DNI" => "55.555.555"
-
-            );  
-            $registros[] = array("nombre" => "Maria",
-                "apellido" => "Elena",
-                "email" => "mElena@gmail.com",
-                "DNI" => "66.666.666"
-
-            ); 
-
-?>
 
 <!DOCTYPE html>
 <html lang="en">

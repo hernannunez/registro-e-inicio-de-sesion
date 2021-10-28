@@ -24,7 +24,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="container ms-7 p-5">
-                        <h1 class="text-cust"> Inicio<Hernan class=""></Hernan></h1>
+                        <h1 class="text-cust"> Inicio</h1>
                         <p><button class="btn btn-dark">Ver listado de registros</button></p>
                     </div>
                 </div>
@@ -46,6 +46,3 @@
             <?php include_once("footer.php"); ?> 
         </footer>
     </div>
-    
-</body>
-</html>

@@ -19,11 +19,11 @@
         <div class="row">
             <div class="col-12 ms-4 ">
                 <div class="card" style="width: 20rem;">
-                    <ul class="list-group">
-                        <li class="list-group-item"><h6>Nombre</h6><?php echo $_POST["nombreUsuario"] ?></li>
-                        <li class="list-group-item"><h6>Apellido</h6><?php echo $_POST["apellidoUsuario"]?></li>
-                        <li class="list-group-item"><h6>Profesion</h6><?php echo $_POST["profesionUsuario"]?></li>
-                        <li class="list-group-item"><h6>Descripcion</h6><?php echo $_POST["descripcionUsuario"]?></li>
+                    <ul>
+                        <li><h6>Nombre</h6><?php echo $_POST["nombreUsuario"] ?></li>
+                        <li><h6>Apellido</h6><?php echo $_POST["apellidoUsuario"]?></li>
+                        <li><h6>Profesion</h6><?php echo $_POST["profesionUsuario"]?></li>
+                        <li><h6>Descripcion</h6><?php echo $_POST["descripcionUsuario"]?></li>
                     </ul>
                 </div>
             </div>

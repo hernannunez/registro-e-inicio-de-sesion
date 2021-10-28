@@ -1,0 +1,46 @@
+a:hover{
+    color: white !important;
+    text-decoration: underline;
+    font-weight: bold;
+ }
+.link-cust{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image:url("imagenes/21omxpw.jpg.crdownload") ;
+    background-size: cover;
+    color: white;
+    font-weight: 400;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 70px;
+}
+.sobremi{
+    color:floralwhite;
+    font-weight: 300;
+    font-style:unset;
+}
+.social-icon{
+    list-style: none;
+}
+.form-row{
+    background-color: antiquewhite;
+}
+#header{
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+.cont-cust{
+    background-image: url("imagenes/21omxpw.jpg.crdownload");
+}
+.desc-cust{
+    font-size: 25px;
+}
+.title-card{
+    font-size: 40px;
+}
+.form-control{
+    color: white;
+}
